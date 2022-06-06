@@ -24,6 +24,7 @@ python teacher.py --model bert-base-uncased \
 # Distill the teacher to student model with CKD and RKD
 python AREA.py --student_model bert-base-uncased \
 	       --model1 ./RAMS_teacher_uncased_fenci \
+	       --output_dir ./AREA_output \
                --train_file ../proc/data/RAMS-event/processed-data/RAMS_out_fenci/train_data_fenci.json \
                --dev_file ../proc/data/RAMS-event/processed-data/RAMS_out_fenci/test_data_fenci.json \
                --test_file ../proc/data/RAMS-event/processed-data/RAMS_out_fenci/test_data_fenci.json \
