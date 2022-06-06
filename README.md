@@ -36,8 +36,5 @@ python AREA.py --student_model bert-base-uncased \
 ```
 
 ### Note
-
-- We provide the preprocessed the official RAMS dataset from paper 《[Multi-Sentence Argument Linking](https://aclanthology.org/2020.acl-main.718.pdf)》  in `/proc/data/RAMS-event/processed-data/RAMS_out_fenci/`.
-
 - We modify the source code of pytorch_pretrained==0.6.1 in `/code/pytorch_pretrained_bert_self/`.
 
