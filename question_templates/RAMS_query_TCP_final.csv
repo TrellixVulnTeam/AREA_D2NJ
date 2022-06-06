@@ -1,0 +1,506 @@
+personnel.elect.win election_candidate
+justice.initiate judicial process.trial hearing_place
+movement.transport person.prevent exit_origin
+movement.transport person.prevent exit_transporter
+government.vote.violation spr event vote_voter
+transaction.transfer money.embargo sanction_money
+government.vote.n/a_ballot
+movement.transport person.self motion_destination
+contact.collaborate.correspondence_participant
+conflict.attack.self directed battle_target
+contact.prevarication.meet_communicator
+movement.transport artifact.n/a_artifact
+conflict.attack.biological chemical poison attack_target
+movement.transport person.bring carry unload_vehicle
+movement.transport artifact.bring carry unload_transporter
+transaction.transaction.transfer control_place
+contact.commitment promise express intent.meet_communicator
+transaction.transaction.transfer control_beneficiary
+conflict.yield.surrender_recipient
+contact.negotiate.correspondence_participant
+conflict.attack.bombing_attacker
+justice.initiate judicial process.n/a_defendant
+government.vote.cast vote_candidate
+contact.request advise.broadcast_place
+contact.public statement in person.broadcast_place
+artifact existence.damage destroy.damage_place
+transaction.transfer money.n/a_money
+conflict.attack.biological chemical poison attack_attacker
+contact.media statement.broadcast_place
+justice.initiate judicial process.trial hearing_crime
+government.agreements.accept agreement contract ceasefire_place
+movement.transport person.prevent exit_preventer
+contact.funeral vigil.n/a_deceased
+manufacture.artifact.build_place
+transaction.transfer ownership.borrow lend_beneficiary
+transaction.transfer ownership.gift grant provide aid_beneficiary
+inspection.sensory observe.monitor election_place
+movement.transport artifact.receive import_origin
+movement.transport artifact.smuggle extract_destination
+transaction.transaction.gift grant provide aid_giver
+contact.threaten coerce.meet_recipient
+artifact existence.damage destroy.destroy_instrument
+transaction.transaction.gift grant provide aid_place
+government.agreements.violate agreement_other participant
+transaction.transfer money.embargo sanction_giver
+movement.transport artifact.n/a_destination
+contact.command order.broadcast_place
+transaction.transfer ownership.gift grant provide aid_place
+movement.transport person.bring carry unload_origin
+movement.transport artifact.smuggle extract_vehicle
+movement.transport person.self motion_transporter
+conflict.attack.hanging_attacker
+transaction.transfer ownership.n/a_giver
+conflict.attack.air strike missile strike_place
+movement.transport person.bring carry unload_passenger
+transaction.transfer ownership.borrow lend_artifact
+transaction.transfer ownership.gift grant provide aid_recipient
+movement.transport person.prevent exit_destination
+conflict.attack.set fire_place
+contact.commitment promise express intent.correspondence_recipient
+contact.collaborate.n/a_participant
+transaction.transfer ownership.embargo sanction_place
+justice.initiate judicial process.n/a_crime
+conflict.attack.strangling_instrument
+movement.transport artifact.prevent entry_transporter
+contact.request advise.correspondence_recipient
+contact.prevarication.correspondence_communicator
+contact.funeral vigil.meet_participant
+movement.transport artifact.smuggle extract_origin
+movement.transport artifact.n/a_transporter
+disaster.fire explosion.fire explosion_place
+transaction.transfer money.purchase_giver
+conflict.attack.air strike missile strike_instrument
+conflict.attack.fire arm attack_attacker
+contact.commitment promise express intent.n/a_recipient
+contact.media statement.n/a_recipient
+contact.threaten coerce.broadcast_place
+contact.threaten coerce.n/a_recipient
+government.legislate.legislate_government body
+manufacture.artifact.create intellectual property_place
+contact.commitment promise express intent.meet_place
+life.injure.injury caused by violent events_injurer
+contact.commitment promise express intent.correspondence_place
+movement.transport person.disperse separate_origin
+personnel.start position.hiring_employee
+transaction.transfer ownership.borrow lend_giver
+conflict.attack.self directed battle_attacker
+movement.transport artifact.receive import_artifact
+conflict.attack.n/a_target
+transaction.transaction.gift grant provide aid_recipient
+conflict.attack.fire arm attack_place
+movement.transport artifact.prevent exit_origin
+contact.command order.n/a_recipient
+justice.investigate.investigate crime_crime
+contact.discussion.correspondence_participant
+contact.command order.broadcast_recipient
+contact.negotiate.n/a_place
+movement.transport person.evacuation rescue_vehicle
+movement.transport artifact.non violent throw launch_destination
+contact.commitment promise express intent.broadcast_place
+movement.transport artifact.receive import_vehicle
+justice.investigate.investigate crime_defendant
+transaction.transfer money.n/a_recipient
+transaction.transfer ownership.borrow lend_place
+contact.request advise.n/a_communicator
+government.agreements.reject nullify agreement contract ceasefire_other participant
+movement.transport artifact.disperse separate_transporter
+inspection.sensory observe.inspect people organization_place
+personnel.start position.hiring_place
+conflict.attack.fire arm attack_instrument
+inspection.sensory observe.monitor election_monitored entity
+movement.transport person.disperse separate_transporter
+movement.transport person.disperse separate_destination
+movement.transport person.prevent entry_transporter
+contact.threaten coerce.n/a_place
+manufacture.artifact.build_manufacturer
+transaction.transfer money.pay for service_beneficiary
+movement.transport artifact.prevent entry_preventer
+government.formation.mergegpe_participant
+contact.commitment promise express intent.correspondence_communicator
+inspection.sensory observe.n/a_observer
+conflict.yield.surrender_place
+government.spy.spy_beneficiary
+government.formation.startgpe_place
+transaction.transaction.gift grant provide aid_beneficiary
+justice.investigate.investigate crime_place
+contact.command order.correspondence_communicator
+contact.discussion.meet_participant
+contact.threaten coerce.broadcast_communicator
+contact.threaten coerce.correspondence_place
+movement.transport artifact.prevent entry_destination
+justice.initiate judicial process.charge indict_prosecutor
+justice.judicial consequences.extradite_origin
+contact.command order.correspondence_place
+artifact existence.damage destroy.damage_damager
+movement.transport person.evacuation rescue_destination
+conflict.attack.hanging_instrument
+artifact existence.damage destroy.n/a_damager destroyer
+life.die.n/a_victim
+movement.transport person.n/a_origin
+movement.transport person.hide_transporter
+artifact existence.damage destroy.damage_instrument
+movement.transport person.smuggle extract_vehicle
+contact.public statement in person.n/a_communicator
+manufacture.artifact.n/a_artifact
+movement.transport artifact.send supply export_vehicle
+movement.transport artifact.prevent exit_transporter
+movement.transport artifact.prevent exit_destination
+conflict.attack.fire arm attack_target
+manufacture.artifact.create manufacture_place
+transaction.transfer money.gift grant provide aid_giver
+transaction.transaction.embargo sanction_giver
+contact.commitment promise express intent.n/a_place
+movement.transport person.disperse separate_vehicle
+movement.transport artifact.send supply export_destination
+contact.request advise.correspondence_place
+movement.transport artifact.fall_artifact
+justice.judicial consequences.convict_defendant
+contact.media statement.broadcast_recipient
+movement.transport artifact.prevent exit_preventer
+movement.transport person.smuggle extract_origin
+justice.judicial consequences.extradite_extraditer
+government.legislate.legislate_law
+contact.command order.meet_place
+contact.public statement in person.n/a_recipient
+transaction.transfer money.borrow lend_place
+contact.discussion.correspondence_place
+personnel.elect.win election_place
+conflict.yield.retreat_destination
+movement.transport artifact.disperse separate_destination
+transaction.transfer ownership.embargo sanction_recipient
+justice.judicial consequences.convict_place
+justice.initiate judicial process.n/a_place
+personnel.end position.firing layoff_place of employment
+conflict.attack.stabbing_instrument
+justice.initiate judicial process.n/a_judge court
+conflict.attack.strangling_attacker
+conflict.attack.n/a_instrument
+movement.transport artifact.prevent entry_artifact
+transaction.transfer ownership.purchase_beneficiary
+conflict.attack.bombing_instrument
+movement.transport person.bring carry unload_destination
+movement.transport artifact.disperse separate_artifact
+contact.threaten coerce.correspondence_communicator
+conflict.attack.stabbing_place
+contact.prevarication.n/a_communicator
+movement.transport artifact.hide_origin
+conflict.attack.hanging_place
+inspection.sensory observe.physical investigate inspect_inspected entity
+justice.initiate judicial process.n/a_prosecutor
+movement.transport person.n/a_transporter
+conflict.attack.hanging_target
+government.agreements.reject nullify agreement contract ceasefire_rejecter nullifier
+manufacture.artifact.create manufacture_manufacturer
+inspection.sensory observe.inspect people organization_inspected entity
+transaction.transfer ownership.n/a_artifact
+personnel.start position.n/a_employee
+contact.request advise.meet_place
+manufacture.artifact.create manufacture_instrument
+conflict.attack.strangling_place
+personnel.elect.n/a_voter
+artifact existence.damage destroy.damage_artifact
+contact.negotiate.n/a_participant
+personnel.end position.firing layoff_employee
+conflict.attack.set fire_target
+justice.initiate judicial process.trial hearing_defendant
+contact.discussion.n/a_place
+movement.transport person.evacuation rescue_transporter
+disaster.fire explosion.fire explosion_instrument
+contact.prevarication.n/a_recipient
+life.die.n/a_place
+government.vote.cast vote_ballot
+justice.investigate.n/a_investigator
+movement.transport artifact.prevent exit_artifact
+conflict.attack.bombing_target
+transaction.transfer ownership.gift grant provide aid_giver
+transaction.transfer ownership.gift grant provide aid_artifact
+movement.transport person.fall_origin
+conflict.yield.retreat_origin
+contact.collaborate.meet_participant
+movement.transport artifact.receive import_transporter
+transaction.transaction.n/a_place
+transaction.transfer money.purchase_recipient
+government.spy.spy_observed entity
+movement.transport person.grant entry asylum_passenger
+personnel.elect.win election_voter
+transaction.transfer money.pay for service_place
+personnel.start position.hiring_place of employment
+contact.media statement.n/a_place
+personnel.end position.quit retire_employee
+contact.request advise.correspondence_communicator
+conflict.attack.steal rob hijack_place
+conflict.attack.invade_instrument
+contact.prevarication.n/a_place
+inspection.sensory observe.physical investigate inspect_place
+movement.transport artifact.prevent entry_origin
+conflict.attack.set fire_attacker
+personnel.elect.n/a_candidate
+life.die.death caused by violent events_killer
+conflict.attack.steal rob hijack_attacker
+movement.transport person.bring carry unload_transporter
+life.die.death caused by violent events_victim
+justice.judicial consequences.convict_crime
+transaction.transfer ownership.borrow lend_recipient
+contact.command order.meet_recipient
+conflict.yield.n/a_recipient
+contact.public statement in person.n/a_place
+transaction.transaction.n/a_beneficiary
+government.formation.mergegpe_place
+contact.commitment promise express intent.meet_recipient
+movement.transport person.grant entry asylum_transporter
+conflict.attack.invade_attacker
+contact.prevarication.correspondence_place
+government.vote.n/a_voter
+life.injure.injury caused by violent events_instrument
+contact.negotiate.meet_participant
+contact.prevarication.broadcast_recipient
+justice.arrest jail detain.arrest jail detain_jailer
+disaster.accident crash.accident crash_driver passenger
+contact.collaborate.meet_place
+conflict.attack.biological chemical poison attack_instrument
+movement.transport person.fall_destination
+conflict.attack.self directed battle_instrument
+disaster.accident crash.accident crash_vehicle
+personnel.start position.n/a_place
+conflict.attack.air strike missile strike_target
+transaction.transfer money.gift grant provide aid_beneficiary
+transaction.transfer ownership.embargo sanction_preventer
+movement.transport artifact.bring carry unload_origin
+contact.prevarication.meet_place
+conflict.attack.self directed battle_place
+justice.initiate judicial process.trial hearing_judge court
+transaction.transaction.embargo sanction_recipient
+government.vote.n/a_candidate
+transaction.transfer money.embargo sanction_recipient
+contact.threaten coerce.meet_place
+transaction.transfer money.borrow lend_money
+artifact existence.damage destroy.destroy_artifact
+contact.prevarication.meet_recipient
+government.agreements.violate agreement_place
+movement.transport artifact.non violent throw launch_artifact
+contact.request advise.broadcast_recipient
+conflict.demonstrate.n/a_place
+contact.prevarication.broadcast_place
+contact.request advise.meet_recipient
+movement.transport person.n/a_vehicle
+government.agreements.reject nullify agreement contract ceasefire_place
+artifact existence.damage destroy.destroy_destroyer
+movement.transport artifact.hide_artifact
+movement.transport person.prevent entry_destination
+personnel.end position.firing layoff_place
+conflict.attack.strangling_target
+contact.negotiate.correspondence_place
+transaction.transaction.n/a_participant
+transaction.transfer money.gift grant provide aid_money
+movement.transport person.hide_hiding place
+movement.transport artifact.grantentry_artifact
+conflict.yield.retreat_retreater
+conflict.attack.n/a_attacker
+movement.transport artifact.non violent throw launch_origin
+government.vote.n/a_place
+justice.judicial consequences.n/a_defendant
+contact.command order.n/a_place
+conflict.demonstrate.n/a_demonstrator
+contact.threaten coerce.n/a_communicator
+movement.transport artifact.fall_origin
+movement.transport person.prevent entry_passenger
+conflict.attack.biological chemical poison attack_place
+justice.judicial consequences.execute_defendant
+contact.threaten coerce.meet_communicator
+contact.funeral vigil.meet_place
+conflict.attack.steal rob hijack_instrument
+government.vote.violation spr event vote_place
+transaction.transfer money.gift grant provide aid_place
+government.vote.violation spr event vote_ballot
+transaction.transaction.embargo sanction_artifact money
+movement.transport artifact.bring carry unload_artifact
+movement.transport artifact.receive import_destination
+government.vote.cast vote_voter
+contact.discussion.n/a_participant
+justice.judicial consequences.extradite_crime
+transaction.transfer money.n/a_place
+transaction.transfer ownership.n/a_recipient
+justice.judicial consequences.execute_executioner
+personnel.start position.n/a_place of employment
+movement.transport person.n/a_destination
+government.vote.cast vote_result
+conflict.attack.stabbing_attacker
+movement.transport person.disperse separate_passenger
+movement.transport person.evacuation rescue_origin
+transaction.transaction.embargo sanction_preventer
+manufacture.artifact.n/a_manufacturer
+manufacture.artifact.n/a_place
+contact.public statement in person.broadcast_communicator
+government.agreements.accept agreement contract ceasefire_participant
+justice.judicial consequences.execute_crime
+life.injure.n/a_place
+movement.transport artifact.bring carry unload_destination
+manufacture.artifact.create intellectual property_manufacturer
+contact.request advise.n/a_recipient
+manufacture.artifact.create manufacture_artifact
+contact.discussion.meet_place
+transaction.transfer money.embargo sanction_place
+movement.transport artifact.grantentry_transporter
+justice.initiate judicial process.charge indict_defendant
+contact.funeral vigil.meet_deceased
+contact.command order.correspondence_recipient
+contact.public statement in person.broadcast_recipient
+transaction.transfer ownership.embargo sanction_artifact
+government.formation.n/a_place
+inspection.sensory observe.n/a_observed entity
+transaction.transfer ownership.purchase_artifact
+life.injure.illness degradation hunger thirst_place
+contact.command order.n/a_communicator
+personnel.end position.quit retire_place
+contact.prevarication.correspondence_recipient
+conflict.attack.set fire_instrument
+movement.transport artifact.grantentry_destination
+movement.transport artifact.disperse separate_origin
+justice.investigate.n/a_defendant
+life.injure.illness degradation hunger thirst_victim
+justice.initiate judicial process.charge indict_place
+contact.collaborate.n/a_place
+movement.transport person.smuggle extract_transporter
+movement.transport person.grant entry asylum_destination
+conflict.demonstrate.march protest political gathering_demonstrator
+life.injure.illness degradation physical_victim
+transaction.transaction.transfer control_territory or facility
+transaction.transfer ownership.n/a_beneficiary
+artifact existence.damage destroy.n/a_instrument
+movement.transport person.evacuation rescue_passenger
+contact.command order.broadcast_communicator
+government.agreements.n/a_place
+movement.transport artifact.non violent throw launch_transporter
+artifact existence.damage destroy.n/a_artifact
+life.injure.injury caused by violent events_place
+contact.request advise.broadcast_communicator
+contact.collaborate.correspondence_place
+justice.judicial consequences.execute_place
+contact.threaten coerce.correspondence_recipient
+movement.transport artifact.hide_vehicle
+conflict.attack.steal rob hijack_target
+movement.transport person.n/a_passenger
+government.legislate.legislate_place
+conflict.attack.steal rob hijack_artifact
+conflict.yield.n/a_yielder
+disaster.fire explosion.fire explosion_fire explosion object
+justice.judicial consequences.n/a_crime
+government.spy.spy_spy
+transaction.transfer money.borrow lend_giver
+personnel.end position.n/a_place of employment
+movement.transport artifact.disperse separate_vehicle
+contact.funeral vigil.n/a_participant
+contact.media statement.broadcast_communicator
+transaction.transfer money.pay for service_giver
+justice.initiate judicial process.charge indict_crime
+inspection.sensory observe.physical investigate inspect_inspector
+movement.transport person.self motion_origin
+personnel.end position.n/a_employee
+movement.transport artifact.n/a_vehicle
+government.formation.startgpe_founder
+contact.threaten coerce.broadcast_recipient
+government.vote.cast vote_place
+transaction.transfer money.embargo sanction_preventer
+movement.transport artifact.send supply export_transporter
+conflict.attack.bombing_place
+conflict.attack.n/a_place
+movement.transport person.hide_passenger
+justice.initiate judicial process.charge indict_judge court
+conflict.attack.stabbing_target
+movement.transport artifact.send supply export_artifact
+movement.transport artifact.n/a_origin
+movement.transport artifact.non violent throw launch_vehicle
+inspection.sensory observe.inspect people organization_inspector
+justice.arrest jail detain.arrest jail detain_place
+contact.request advise.n/a_place
+movement.transport person.grant entry asylum_origin
+transaction.transfer money.gift grant provide aid_recipient
+transaction.transfer ownership.purchase_giver
+transaction.transfer ownership.embargo sanction_giver
+movement.transport person.hide_origin
+transaction.transfer money.pay for service_money
+government.spy.spy_place
+government.formation.n/a_founder
+movement.transport artifact.smuggle extract_artifact
+government.agreements.violate agreement_violator
+transaction.transfer money.n/a_giver
+justice.initiate judicial process.trial hearing_prosecutor
+personnel.end position.n/a_place
+contact.commitment promise express intent.broadcast_communicator
+conflict.attack.invade_target
+movement.transport artifact.grantentry_origin
+movement.transport artifact.smuggle extract_transporter
+conflict.attack.invade_place
+government.formation.n/a_gpe
+contact.command order.meet_communicator
+movement.transport artifact.send supply export_origin
+movement.transport artifact.hide_hiding place
+contact.negotiate.meet_place
+contact.funeral vigil.n/a_place
+contact.commitment promise express intent.broadcast_recipient
+transaction.transfer ownership.purchase_place
+contact.prevarication.broadcast_communicator
+movement.transport artifact.fall_destination
+transaction.transfer ownership.n/a_place
+personnel.end position.quit retire_place of employment
+justice.judicial consequences.n/a_judge court
+government.vote.violation spr event vote_candidate
+government.vote.violation spr event vote_preventer
+conflict.demonstrate.march protest political gathering_place
+movement.transport person.smuggle extract_passenger
+inspection.sensory observe.monitor election_monitor
+justice.investigate.investigate crime_investigator
+conflict.yield.surrender_surrenderer
+government.agreements.n/a_participant
+life.injure.n/a_injurer
+movement.transport person.prevent entry_origin
+life.die.death caused by violent events_place
+manufacture.artifact.create intellectual property_artifact
+contact.commitment promise express intent.n/a_communicator
+conflict.attack.air strike missile strike_attacker
+transaction.transaction.embargo sanction_place
+movement.transport artifact.hide_transporter
+movement.transport person.grant entry asylum_granter
+artifact existence.damage destroy.destroy_place
+transaction.transaction.transfer control_giver
+justice.arrest jail detain.arrest jail detain_crime
+justice.judicial consequences.extradite_destination
+government.formation.startgpe_gpe
+justice.investigate.n/a_place
+artifact existence.damage destroy.n/a_place
+movement.transport person.prevent exit_passenger
+transaction.transfer money.purchase_money
+transaction.transfer money.n/a_beneficiary
+personnel.elect.n/a_place
+movement.transport person.smuggle extract_destination
+manufacture.artifact.n/a_instrument
+disaster.accident crash.accident crash_place
+movement.transport person.prevent entry_preventer
+transaction.transfer money.pay for service_recipient
+disaster.accident crash.accident crash_crash object
+transaction.transfer ownership.purchase_recipient
+movement.transport person.hide_vehicle
+transaction.transaction.transfer control_recipient
+justice.judicial consequences.convict_judge court
+transaction.transfer money.purchase_place
+conflict.yield.n/a_place
+justice.judicial consequences.n/a_place
+transaction.transfer money.borrow lend_beneficiary
+contact.request advise.meet_communicator
+life.die.non violent death_victim
+manufacture.artifact.build_artifact
+life.injure.injury caused by violent events_victim
+manufacture.artifact.create intellectual property_instrument
+life.die.death caused by violent events_instrument
+inspection.sensory observe.n/a_place
+transaction.transfer money.borrow lend_recipient
+transaction.transfer money.purchase_beneficiary
+contact.media statement.n/a_communicator
+manufacture.artifact.build_instrument
+life.die.non violent death_place
+movement.transport artifact.bring carry unload_vehicle
+life.injure.n/a_victim
+justice.arrest jail detain.arrest jail detain_detainee
+movement.transport person.fall_passenger
+justice.judicial consequences.extradite_defendant
